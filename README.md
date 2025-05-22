@@ -1,4 +1,4 @@
-# Novel Method for Applying Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) in Computer Vision Analysis
+## Novel Method for Applying Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) in Computer Vision Analysis
 
 This is the final project for GR 5205: Linear Regression Models with Professor Yisha Yao at Columbia University. 
 
